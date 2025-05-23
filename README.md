@@ -1,6 +1,7 @@
 ### Uber Demand Optimization
-Tableau Viz link: Uber_dashboard(https://public.tableau.com/app/profile/md.atique.bokhari/viz/NL_UBER/FinalDashboard)
-Overview
+Tableau Viz link: [Uber_dashboard](https://public.tableau.com/app/profile/md.atique.bokhari/viz/NL_UBER/FinalDashboard)
+
+## Overview
 This project analyzes a 6.5 million-row Uber driver dataset to optimize Revenue per Driver Hour (RDH) in Bangalore. The objective is to identify demand patterns, reduce idle times, and propose strategies to enhance fleet efficiency and driver earnings.
 
 ## Objectives
